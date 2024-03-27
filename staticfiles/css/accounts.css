@@ -1,0 +1,21 @@
+/*body {
+  background-image: url(../img/geometry.png);
+}
+*/
+.row {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.login-form {
+	margin: 60px auto;
+}
+
+
+@media (min-width: 992px) { 
+
+	.login-form {
+		margin: 80px auto;
+		width: 700px;
+	}
+}
+
